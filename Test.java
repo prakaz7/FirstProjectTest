@@ -20,7 +20,6 @@ class GFG {
 		num = s.nextInt();
 
 		// Display the integer
-		System.out.println("Entered integer is: "
-						+ num);
+		System.out.println("Entered integer value is: " + num);
 	}
 }
